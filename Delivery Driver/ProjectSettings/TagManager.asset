@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Package
   - Costumer
+  - Boost
+  - Bumps
   layers:
   - Default
   - TransparentFX
